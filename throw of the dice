@@ -1,0 +1,4 @@
+from random import randint 
+
+square = randint(1, 6) 
+print("Выпало число:",square) 
